@@ -1,2 +1,2 @@
 # FindContentClassByGuid
-Find content-class by guid
+Find content-class by guid based on FindPageByGuid2
